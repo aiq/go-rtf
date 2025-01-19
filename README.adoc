@@ -1,0 +1,3 @@
+= go-rtf
+
+Go package that allows to convert rtf files to HTML or plain text.
